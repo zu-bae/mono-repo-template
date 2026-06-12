@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "gonic",
+        "mapstructure",
+        "vercel",
+        "Vite",
+        "distros",
+        "extensionpack",
+        "keymaps",
+        "UEFI"
+    ],
+    "files.associations": {
+		"*.css": "tailwindcss"
+	},
+}
