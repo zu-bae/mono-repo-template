@@ -1,4 +1,4 @@
-# Virtual Connect
+# Monorepo Template
 
 A monorepo skeleton combining a Go backend and a SvelteKit frontend.
 
